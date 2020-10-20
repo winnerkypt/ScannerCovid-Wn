@@ -19,6 +19,8 @@ public class JavaApplication14 {
         
         
         System.out.println("KUY");
+        
+        System.out.println("NUTTTT");
     }
     
 }
